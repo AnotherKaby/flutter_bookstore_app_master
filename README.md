@@ -3,7 +3,11 @@
 Flutter BookstoreApp  created by Hudan Addina
 
 ## Screenshoot
-![Screenshoot App](https://raw.githubusercontent.com/AnotherKaby/flutter_bookstore_app_master/master/Screenshot.jpg)
+<p float="left">
+<img src="https://res.cloudinary.com/dxrioyfam/image/upload/v1680339006/Flutter-Bookstore-App/w017otpacutawzfa3v8u.jpg" width="200" height="350" alt="Bookstore App"/>
+<img src="https://res.cloudinary.com/dxrioyfam/image/upload/v1680339006/Flutter-Bookstore-App/f96ra4nfblgc9mb05ddy.jpg" width="200" height="350" alt="Search 'Flutter' Book"/>
+<img src="https://res.cloudinary.com/dxrioyfam/image/upload/v1680339006/Flutter-Bookstore-App/jnz1wzqan9bjbc6mbnep.jpg" width="200" height="350" alt="Book Detail"/>
+</p>
 
 ## Getting Started
 

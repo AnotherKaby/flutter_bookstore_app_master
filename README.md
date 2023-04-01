@@ -11,12 +11,7 @@ This is a flutter application that consists of 2 main screens - Search & Detail.
 <img src="https://res.cloudinary.com/dxrioyfam/image/upload/v1680339006/Flutter-Bookstore-App/jnz1wzqan9bjbc6mbnep.jpg" width="200" height="350" alt="Book Detail"/>
 </p>
 
-## Packages
-
-http: ^0.13.5
-  get: ^4.6.5
-  flutter_rating_bar: ^4.0.1
-  
+## Packages  
 - `http: ^0.13.5`   => https://pub.dev/packages/http
 - `get: ^4.6.5` => https://pub.dev/packages/get
 - `flutter_rating_bar: ^4.0.1` => https://pub.dev/packages/flutter_rating_bar

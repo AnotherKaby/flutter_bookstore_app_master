@@ -1,6 +1,4 @@
-# flutter_bookstore_app_master
-
-Flutter BookstoreApp
+# Flutter BookstoreApp
 This is a flutter application that consists of 2 main screens - Search & Detail. All books information are being fetched from Bookstore API.
 - API Link: https://api.itbook.store
 

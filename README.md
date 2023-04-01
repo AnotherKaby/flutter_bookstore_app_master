@@ -3,7 +3,7 @@
 Flutter BookstoreApp  created by Hudan Addina
 
 ## Screenshoot
-![Screenshoot App](https://github.com/AnotherKaby/flutter_bookstore_app_master/edit/master/Screenshot.jpg?raw=true)
+![Screenshoot App](https://raw.githubusercontent.com/AnotherKaby/flutter_bookstore_app_master/master/Screenshot.jpg)
 
 ## Getting Started
 

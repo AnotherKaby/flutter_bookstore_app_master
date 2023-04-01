@@ -3,7 +3,6 @@
 Flutter BookstoreApp  created by Hudan Addina
 
 ## Screenshoot
-<img src="[image name](https://github.com/AnotherKaby/flutter_bookstore_app_master/edit/master/Screenshot.jpg)" alt= “” width="100%" height="auto">
 ![alt text](https://github.com/AnotherKaby/flutter_bookstore_app_master/edit/master/Screenshot.jpg?raw=true)
 
 ## Getting Started
